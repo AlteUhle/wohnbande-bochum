@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.wohnbande-bochum/sitemap.xml
+Sitemap: https://wohnbande-bochum.de/sitemap.xml

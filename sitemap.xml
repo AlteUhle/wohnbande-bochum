@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.wohnbande-bochum/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://wohnbande-bochum.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.wohnbande-bochum/</loc>
+<loc>https://wohnbande-bochum.de/</loc>
 </url>
 <url>
-<loc>https://www.wohnbande-bochum/aktuelles.html</loc>
+<loc>https://wohnbande-bochum.de/aktuelles.html</loc>
 <lastmod>2026-10-05T08:39:21+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.wohnbande-bochum/impressum-and-kontakt.html</loc>
+<loc>https://wohnbande-bochum.de/impressum-and-kontakt.html</loc>
 <lastmod>2026-10-05T13:58:47+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.wohnbande-bochum/nutzungskonzept.html</loc>
+<loc>https://wohnbande-bochum.de/nutzungskonzept.html</loc>
 <lastmod>2026-10-05T08:20:26+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.wohnbande-bochum/ueber-uns.html</loc>
+<loc>https://wohnbande-bochum.de/ueber-uns.html</loc>
 <lastmod>2026-10-05T12:49:07+02:00</lastmod>
 <image:image>
-<image:loc>https://www.wohnbande-bochum/media/posts/1/PXL_20260426_130924816.RAW-01.COVER.jpg</image:loc>
+<image:loc>https://wohnbande-bochum.de/media/posts/1/PXL_20260426_130924816.RAW-01.COVER.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.wohnbande-bochum/wohnbanden-news.html</loc>
+<loc>https://wohnbande-bochum.de/wohnbanden-news.html</loc>
 <lastmod>2026-10-05T08:43:47+02:00</lastmod>
 </url>
 </urlset>

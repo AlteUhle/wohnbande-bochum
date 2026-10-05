@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "www.wohnbande-bochum.de",
     "description": "",
-    "home_page_url": "https://www.wohnbande-bochum",
-    "feed_url": "https://www.wohnbande-bochum/feed.json",
+    "home_page_url": "https://wohnbande-bochum.de",
+    "feed_url": "https://wohnbande-bochum.de/feed.json",
     "user_comment": "",
-    "icon": "https://www.wohnbande-bochum/media/website/Logo_WohnBande_weiss.jpg",
+    "icon": "https://wohnbande-bochum.de/media/website/Logo_WohnBande_weiss.jpg",
     "author": {
         "name": "WohnBande"
     },
