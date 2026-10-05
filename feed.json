@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "www.wohnbande-bochum.de",
+    "description": "",
+    "home_page_url": "https://alteuhle.github.io/wohnbande-bochum",
+    "feed_url": "https://alteuhle.github.io/wohnbande-bochum/feed.json",
+    "user_comment": "",
+    "icon": "https://alteuhle.github.io/wohnbande-bochum/media/website/Logo_WohnBande.jpeg",
+    "author": {
+        "name": "WohnBande"
+    },
+    "items": [
+    ]
+}
