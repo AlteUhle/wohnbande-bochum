@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>www.wohnbande-bochum.de</title>
-    <link href="https://alteuhle.github.io/wohnbande-bochum/feed.xml" rel="self" />
-    <link href="https://alteuhle.github.io/wohnbande-bochum" />
+    <link href="https://wohnbande-bochum/feed.xml" rel="self" />
+    <link href="https://wohnbande-bochum" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>WohnBande</name>
     </author>
-    <id>https://alteuhle.github.io/wohnbande-bochum</id>
+    <id>https://wohnbande-bochum</id>
 
 </feed>
